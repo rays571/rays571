@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rays571
+- 👀 I’m interested in coding websites
+- 🌱 I’m currently learning PHP, Javascript, CSS
